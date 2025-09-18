@@ -6,6 +6,8 @@ Repository for my CppCon 2025 talks.
 
 * [Abstract](https://cppcon2025.sched.com/event/27bNZ/more-speed-simplicity-practical-data-oriented-design-in-c++)
 
-* [Slides & Code](https://linktr.ee/vittorioromeo)
+* [Slides](TODO)
+
+* [Demo Code](https://linktr.ee/vittorioromeo)
 
 * [~YouTube video~](TODO)
