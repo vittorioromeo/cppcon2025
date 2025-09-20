@@ -10,4 +10,4 @@ Repository for my CppCon 2025 talks.
 
 * [Demo Code](https://linktr.ee/vittorioromeo)
 
-* [~YouTube video~](TODO)
+* [YouTube video](https://www.youtube.com/watch?v=SzjJfKHygaQ)
